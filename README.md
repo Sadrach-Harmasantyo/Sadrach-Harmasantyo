@@ -33,7 +33,7 @@ I'm an undergraduate Information Systems student and having passionate in softwa
  <tr>
     <td>
       <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Sadrach-Harmasantyo&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Sadrach's GitHub stats" />
-      <img width="90%" src="https://streak-stats.demolab.com?user=Sadrach-Harmasantyo&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+      <img width="90%" src="https://streak-stats.demolab.com?user=Sadrach-Harmasantyo&theme=chartreuse-dark&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
         <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadrach-Harmasantyo&langs_count=10&layout=compact&theme=chartreuse-dark&&hide_border=true&rank_icon=github&show_icons=true" alt="GitHub Top Language" />
