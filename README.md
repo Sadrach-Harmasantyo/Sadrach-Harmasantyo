@@ -32,7 +32,7 @@ I'm an undergraduate Information Systems student and having passionate in softwa
 <table>
  <tr>
     <td>
-      <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Sadrach-Harmasantyo&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Sadrach's GitHub stats" />
+      <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Sadrach-Harmasantyo&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" alt="Sadrach's GitHub stats" />
       <img width="90%" src="https://streak-stats.demolab.com?user=Sadrach-Harmasantyo&theme=chartreuse-dark&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
